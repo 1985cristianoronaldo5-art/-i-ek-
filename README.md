@@ -1,6 +1,4 @@
-import turtle
-import math
-import time
+
 
 turtle.bgcolor("black")
 turtle.tracer(0, 0)
